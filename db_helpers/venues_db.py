@@ -1,19 +1,16 @@
-import mysql.connector
+from db_helpers.db_connection import create_connection, close_connection
 
-def getVenues(year: int):
+
+def getVenues(year: int, date):
+        
     # Connection to the database
-    connection = mysql.connector.connect(
-        host = "localhost",
-        user = "root",
-        password = "root",
-        database = "ipldb"
-    )
+    connection = create_connection()
 
     # Creating a cursor object to execute SQL queries
     cursor = connection.cursor()
 
     # Selection query
-    query = f"SELECT DISTINCT venue FROM iplstat WHERE season={year};"
+    query = f"SELECT venue FROM iplstat WHERE season={year} AND date='{date}';"
 
     # Executing query using cursor
     cursor.execute(query)
@@ -28,6 +25,6 @@ def getVenues(year: int):
 
     # Closing the cursor and the connection
     cursor.close()
-    connection.close()
+    close_connection(connection=connection)
 
     return venues

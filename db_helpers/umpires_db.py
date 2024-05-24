@@ -1,18 +1,11 @@
 from config import saved_instances
-from dbHelpers.db_connection import create_connection
-from dbHelpers.db_connection import close_connection
-
-
-# Fetching saved instances in the config file
-def fetch_instances(session_id):
-    season = saved_instances[session_id]['season']
-    date = saved_instances[session_id]['date']
-    venue = saved_instances[session_id]['venue']
-    return season, date, venue
+from db_helpers.db_connection import create_connection, close_connection
 
 
 # Fetching first umpire from the table
 def get_first_umpire(session_id):
+    from helpers.generic_helpers import fetch_instances
+    from helpers.generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
@@ -21,11 +14,14 @@ def get_first_umpire(session_id):
     umpire = cursor.fetchone()[0]
     cursor.close()
     close_connection(connection)
-    return {'fulfillmentText': umpire}
+    response_payload = [{'text': {'text': [f'The 1st umpire was "{umpire}".\n{want_to_know_more}']}}, {'payload': {'richContent': [[{'type': 'chips', 'options': more_options}]]}}]
+    return {"fulfillmentMessages": response_payload}
 
 
 # Fetching second umpire from the table
 def get_second_umpire(session_id):
+    from helpers.generic_helpers import fetch_instances
+    from helpers.generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
@@ -34,11 +30,14 @@ def get_second_umpire(session_id):
     umpire = cursor.fetchone()[0]
     cursor.close()
     close_connection(connection)
-    return {'fulfillmentText': umpire}
+    response_payload = [{'text': {'text': [f'The 2nd umpire was "{umpire}".\n{want_to_know_more}']}}, {'payload': {'richContent': [[{'type': 'chips', 'options': more_options}]]}}]
+    return {"fulfillmentMessages": response_payload}
     
 
 # Fetching both the umpires from the table
 def get_both_umpires(session_id):
+    from helpers.generic_helpers import fetch_instances
+    from helpers.generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
@@ -51,7 +50,8 @@ def get_both_umpires(session_id):
     cursor.close()
     close_connection(connection)
     del saved_instances[session_id]
-    return {'fulfillmentText': f"{umpire1}, {umpire2}"}
+    response_payload = [{'text': {'text': [f'The 1st umpire was "{umpire1}" and the 2nd one was "{umpire2}".\n{want_to_know_more}']}}, {'payload': {'richContent': [[{'type': 'chips', 'options': more_options}]]}}]
+    return {"fulfillmentMessages": response_payload}
 
 
 

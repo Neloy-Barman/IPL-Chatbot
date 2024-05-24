@@ -1,5 +1,6 @@
 import mysql.connector
 
+
 def create_connection():
     connection = mysql.connector.connect(
         host = "localhost",
@@ -9,6 +10,7 @@ def create_connection():
     )
     
     return connection
+
 
 def close_connection(connection):
     connection.close()
