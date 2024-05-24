@@ -1,4 +1,4 @@
-sid,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
 1,2017,Hyderabad,2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,35,0,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,NJ Llong
 2,2017,Pune,2017-04-06,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,0,Rising Pune Supergiant,0,7,SPD Smith,Maharashtra Cricket Association Stadium,A Nand Kishore,S Ravi
 3,2017,Rajkot,2017-04-07,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,10,CA Lynn,Saurashtra Cricket Association Stadium,Nitin Menon,CK Nandan
@@ -613,132 +613,132 @@ sid,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,win
 623,2016,Visakhapatnam,2016-05-15,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Mumbai Indians,80,0,KH Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Nitin Menon,CK Nandan
 624,2016,Kolkata,2016-05-16,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,9,V Kohli,Eden Gardens,CB Gaffaney,A Nand Kishore
 625,2016,Visakhapatnam,2016-05-17,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,1,Rising Pune Supergiants,19,0,AB Dinda,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Nitin Menon,C Shamshuddin
-626,2016,Bangalore,2018-04-07,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,1,Royal Challengers Bangalore,82,0,V Kohli,M Chinnaswamy Stadium,KN Ananthapadmanabhan,M Erasmus
-627,2016,Kanpur,2018-04-08,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions,0,6,DR Smith,Green Park,AK Chaudhary,CK Nandan
-628,2016,Raipur,2018-04-08,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,6,KK Nair,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford
-629,2016,Visakhapatnam,2018-04-09,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,bat,normal,0,Rising Pune Supergiants,0,4,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,HDPK Dharmasena,Nitin Menon
-630,2016,Kanpur,2018-04-10,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions,0,6,SK Raina,Green Park,AK Chaudhary,CK Nandan
-631,2016,Kolkata,2018-04-11,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,22,0,YK Pathan,Eden Gardens,KN Ananthapadmanabhan,M Erasmus
-632,2016,Raipur,2018-04-12,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,V Kohli,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford
-633,2016,Bangalore,2018-04-13,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,AB de Villiers,M Chinnaswamy Stadium,AK Chaudhary,HDPK Dharmasena
-634,2016,Delhi,2018-04-14,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,22,0,MC Henriques,Feroz Shah Kotla,M Erasmus,C Shamshuddin
-635,2016,Delhi,2018-04-14,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,DA Warner,Feroz Shah Kotla,M Erasmus,CK Nandan
-636,2016,Bangalore,2018-04-15,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,8,0,BCJ Cutting,M Chinnaswamy Stadium,HDPK Dharmasena,BNJ Oxenford
-7894,2018,Mumbai,2018-04-15,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,1,DJ Bravo,Wankhede Stadium,Chris Gaffaney,A Nanda Kishore
-7895,2018,Mohali,2018-04-16,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,K Ananthapadmanabhan
-7896,2018,Kolkata,2018-04-17,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,4,SP Narine,Eden Gardens,C Shamshuddin,A.D Deshmukh
-7897,2018,Hyderabad,2018-04-18,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",Nigel Llong,Vineet Kulkarni
-7898,2018,Chennai,2018-04-19,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,SW Billings,"MA Chidambaram Stadium, Chepauk",Anil Chaudhary,Chris Gaffaney
-7899,2018,Jaipur,2018-04-20,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,1,Rajasthan Royals,10,0,SV Samson,Sawai Mansingh Stadium,K Ananthapadmanabhan,Rod Tucker
-7900,2018,Hyderabad,2018-04-21,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,1,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",O Nandan,Nigel Llong
-7901,2018,Bengaluru,2018-04-21,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,UT Yadav,M Chinnaswamy Stadium,S Ravi,A.D Deshmukh
-7902,2018,Mumbai,2018-04-22,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,7,JJ Roy,Wankhede Stadium,K Ananthapadmanabhan,Nitin Menon
-7903,2018,Kolkata,2018-04-22,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,B Stanlake,Eden Gardens,A Nanda Kishore,Anil Chaudhary
-7904,2018,Bengaluru,2018-04-23,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,19,0,SV Samson,M Chinnaswamy Stadium,C Shamshuddin,S Ravi
-7905,2018,Mohali,2018-04-24,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Kings XI Punjab,4,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",Vineet Kulkarni,O Nandan
-7906,2018,Kolkata,2018-04-25,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kolkata Knight Riders,71,0,N Rana,Eden Gardens,Anil Chaudhary,A Nanda Kishore
-7907,2018,Mumbai,2018-04-26,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,46,0,RG Sharma,Wankhede Stadium,Rod Tucker,Nitin Menon
-7908,2018,Jaipur,2018-04-27,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,N Rana,Sawai Mansingh Stadium,S Ravi,A.D Deshmukh
-7909,2018,Mohali,2018-04-28,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,0,Kings XI Punjab,15,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nigel Llong,Anil Chaudhary
-7910,2018,Pune,2018-04-29,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,64,0,SR Watson,Maharashtra Cricket Association Stadium,Nitin Menon,K Ananthapadmanabhan
-7911,2018,Kolkata,2018-04-29,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,1,Kings XI Punjab,0,9,KL Rahul,Eden Gardens,C Shamshuddin,A.D Deshmukh
-7912,2018,Bengaluru,2018-04-30,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,AB de Villiers,M Chinnaswamy Stadium,Chris Gaffaney,O Nandan
-7913,2018,Hyderabad,2018-05-01,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Chennai Super Kings,4,0,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",Anil Chaudhary,Vineet Kulkarni
-7914,2018,Jaipur,2018-05-02,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Rajasthan Royals,0,3,J Archer,Sawai Mansingh Stadium,Rod Tucker,K Ananthapadmanabhan
-7915,2018,Delhi,2018-05-03,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kings XI Punjab,4,0,AS Rajpoot,Feroz Shah Kotla,O Nandan,A Nanda Kishore
-7916,2018,Mumbai,2018-05-04,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,31,0,Rashid Khan,Wankhede Stadium,C Shamshuddin,S Ravi
-7917,2018,Bengaluru,2018-05-05,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,MS Dhoni,M Chinnaswamy Stadium,Nigel Llong,Virender Kumar Sharma
-7918,2018,Hyderabad,2018-05-05,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,13,0,AS Rajpoot,"Rajiv Gandhi International Stadium, Uppal",O Nandan,Yeshwant Barde
-7919,2018,Delhi,2018-05-06,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Delhi Daredevils,55,0,SS Iyer,Feroz Shah Kotla,C Shamshuddin,S Ravi
-7920,2018,Pune,2018-05-06,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,8,RG Sharma,Maharashtra Cricket Association Stadium,Chris Gaffaney,Nitin Menon
-7921,2018,Jaipur,2018-05-07,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,11,0,KS Williamson,Sawai Mansingh Stadium,Bruce Oxenford,A Nanda Kishore
-7922,2018,Bengaluru,2018-05-08,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,CA Lynn,M Chinnaswamy Stadium,Nigel Llong,Anil Chaudhary
-7923,2018,Pune,2018-05-09,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,0,Chennai Super Kings,13,0,SR Watson,Maharashtra Cricket Association Stadium,C Shamshuddin,Anil Dandekar
-7924,2018,Bengaluru,2018-05-10,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,14,0,TG Southee,M Chinnaswamy Stadium,Marais Erasmus,Nitin Menon
-7925,2018,Delhi,2018-05-11,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,1,Delhi Daredevils,4,0,RR Pant,Feroz Shah Kotla,O Nandan,Virender Kumar Sharma
-7926,2018,Kolkata,2018-05-12,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,SP Narine,Eden Gardens,Kumar Dharmasena,A.D Deshmukh
-7927,2018,Indore,2018-05-12,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,AS Yadav,Holkar Cricket Stadium,S Ravi,Anil Dandekar
-7928,2018,Pune,2018-05-13,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,RA Jadeja,Maharashtra Cricket Association Stadium,Nitin Menon,Yeshwant Barde
-7929,2018,Hyderabad,2018-05-13,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,0,Sunrisers Hyderabad,0,7,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",Bruce Oxenford,O Nandan
-7930,2018,Mumbai,2018-05-14,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,13,0,HH Pandya,Wankhede Stadium,Kumar Dharmasena,A.D Deshmukh
-7931,2018,Indore,2018-05-15,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,M Ur Rahman,Holkar Cricket Stadium,C Shamshuddin,S Ravi
-7932,2018,Hyderabad,2018-05-16,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,5,0,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",Bruce Oxenford,Virender Kumar Sharma
-7933,2018,Jaipur,2018-05-17,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,0,Rajasthan Royals,15,0,JC Buttler,Sawai Mansingh Stadium,Marais Erasmus,Nitin Menon
-7934,2018,Kolkata,2018-05-18,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,102,0,Ishan Kishan,Eden Gardens,Anil Chaudhary,K Ananthapadmanabhan
-7935,2018,Delhi,2018-05-19,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,0,Sunrisers Hyderabad,0,9,S Dhawan,Feroz Shah Kotla,C Shamshuddin,Anil Dandekar
-7936,2018,Jaipur,2018-05-19,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,4,JC Buttler,Sawai Mansingh Stadium,Marais Erasmus,Yeshwant Barde
-7937,2018,Indore,2018-05-20,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kolkata Knight Riders,31,0,SP Narine,Holkar Cricket Stadium,O Nandan,Virender Kumar Sharma
-7938,2018,Delhi,2018-05-20,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,AB de Villiers,Feroz Shah Kotla,Kumar Dharmasena,Anil Chaudhary
-7939,2018,Pune,2018-05-22,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,AT Rayudu,Maharashtra Cricket Association Stadium,Marais Erasmus,Yeshwant Barde
-7940,2018,Mumbai,2018-05-23,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,JC Buttler,Wankhede Stadium,Nitin Menon,S Ravi
-7941,2018,Indore,2018-05-25,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,10,UT Yadav,Holkar Cricket Stadium,Bruce Oxenford,Virender Kumar Sharma
-7942,2018,Kolkata,2018-05-27,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,Kuldeep Yadav,Eden Gardens,Kumar Dharmasena,Anil Chaudhary
-7943,2018,Mumbai,2019-03-23,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,Mumbai Indians,3,0,JJ Bumrah,Wankhede Stadium,Marais Erasmus,Nitin Menon
-7944,2018,Bengaluru,2019-03-24,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,14,0,AB de Villiers,M Chinnaswamy Stadium,S Ravi,Anil Dandekar
-7945,2018,Delhi,2019-03-24,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,0,Delhi Daredevils,34,0,HV Patel,Feroz Shah Kotla,Kumar Dharmasena,Vineet Kulkarni
-7946,2018,Jaipur,2019-03-25,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Rajasthan Royals,30,0,S Gopal,Sawai Mansingh Stadium,Bruce Oxenford,Virender Kumar Sharma
-7947,2018,Hyderabad,2019-03-26,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,5,CA Lynn,"Rajiv Gandhi International Stadium, Uppal",Anil Chaudhary,S Ravi
-7948,2018,Delhi,2019-03-27,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,0,Delhi Daredevils,11,0,A Mishra,Feroz Shah Kotla,Kumar Dharmasena,O Nandan
-7949,2018,Pune,2019-03-28,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,L Ngidi,Maharashtra Cricket Association Stadium,Nitin Menon,Yeshwant Barde
-7950,2018,Mumbai,2019-03-29,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,2,F du Plessis,Wankhede Stadium,Marais Erasmus,C Shamshuddin
-7951,2018,Kolkata,2019-03-30,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,25,0,AD Russell,Eden Gardens,Nitin Menon,Anil Chaudhary
-7952,2018,Kolkata,2019-03-30,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,14,0,Rashid Khan,Eden Gardens,Nitin Menon,Kumar Dharmasena
-7953,2018,Mumbai,2019-03-31,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,SR Watson,Wankhede Stadium,Marais Erasmus,S Ravi
-11137,2019,Chennai,2019-03-31,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,Harbhajan Singh,M. A. Chidambaram Stadium,Bruce Oxenford,Anil Dandekar
-11138,2019,Kolkata,2019-04-01,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,AD Russell,Eden Gardens,Chris Gaffaney,Anil Chaudhary
-11139,2019,Mumbai,2019-04-02,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Delhi Capitals,37,0,RR Pant,Wankhede Stadium,S Ravi,Yeshwant Barde
-11140,2019,Jaipur,2019-04-03,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab,14,0,CH Gayle,Sawai Mansingh Stadium,C Shamshuddin,KN Anantapadmanabhan
-11141,2019,Delhi,2019-04-04,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,0,Chennai Super Kings,0,6,SR Watson,Feroz Shah Kotla Ground,Marais Erasmus,Nitin Menon
-11142,2019,Kolkata,2019-04-05,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kolkata Knight Riders,28,0,AD Russell,Eden Gardens,Anil Chaudhary,Vineet Kulkarni
-11143,2019,Bengaluru,2019-04-06,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,6,0,JJ Bumrah,M. Chinnaswamy Stadium,S Ravi,O Nandan
-11144,2019,Hyderabad,2019-04-06,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,0,Sunrisers Hyderabad,0,5,Rashid Khan,Rajiv Gandhi Intl. Cricket Stadium,Bruce Oxenford,C Shamshuddin
-11145,2019,Mohali,2019-04-07,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,8,MA Agarwal,IS Bindra Stadium,Vineet Kulkarni,Chris Gaffaney
-11146,2019,Delhi,2019-04-07,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,tie,0,Delhi Capitals,0,0,P Shaw,Feroz Shah Kotla Ground,Anil Dandekar,Nitin Menon
-11147,2019,Hyderabad,2019-04-08,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,118,0,J Bairstow,Rajiv Gandhi Intl. Cricket Stadium,S Ravi,KN Anantapadmanabhan
-11148,2019,Chennai,2019-04-09,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,8,0,MS Dhoni,M. A. Chidambaram Stadium,O Nandan,Yeshwant Barde
-11149,2019,Mohali,2019-04-10,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,0,Kings XI Punjab,14,0,S Curran,IS Bindra Stadium,Anil Chaudhary,Chris Gaffaney
-11150,2019,Jaipur,2019-04-11,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,S Gopal,Sawai Mansingh Stadium,Marais Erasmus,Anil Dandekar
-11151,2019,Mumbai,2019-04-12,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,37,0,HH Pandya,Wankhede Stadium,Bruce Oxenford,Rod Tucker
-11152,2019,Delhi,2019-04-13,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,J Bairstow,Feroz Shah Kotla Ground,C Shamshuddin,KN Anantapadmanabhan
-11153,2019,Bengaluru,2019-04-13,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,AD Russell,M. Chinnaswamy Stadium,Anil Chaudhary,Chris Gaffaney
-11309,2019,Chennai,2019-04-14,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,Chennai Super Kings,22,0,Harbhajan Singh,M. A. Chidambaram Stadium,KN Ananthapadmanabhan,Rod Tucker
-11310,2019,Hyderabad,2019-04-14,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Mumbai Indians,40,0,A Joseph,Rajiv Gandhi Intl. Cricket Stadium,Anil Dandekar,Nitin Menon
-11311,2019,Bengaluru,2019-04-15,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,K Rabada,M. Chinnaswamy Stadium,S Ravi,Yeshwant Barde
-11312,2019,Jaipur,2019-04-16,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,8,H Gurney,Sawai Mansingh Stadium,Chris Gaffaney,Anil Chaudhary
-11313,2019,Mohali,2019-04-17,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,KL Rahul,IS Bindra Stadium,Marais Erasmus,Anil Dandekar
-11314,2019,Chennai,2019-04-18,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,DL Chahar,M. A. Chidambaram Stadium,Rod Tucker,C Shamshuddin
-11315,2019,Mumbai,2019-04-19,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,3,KA Pollard,Wankhede Stadium,Yeshwant Barde,S Ravi
-11316,2019,Jaipur,2019-04-20,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,MS Dhoni,Sawai Mansingh Stadium,Bruce Oxenford,Ulhas Gandhe
-11317,2019,Kolkata,2019-04-20,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,S Dhawan,Eden Gardens,Yeshwant Barde,O Nandan
-11318,2019,Mumbai,2019-04-21,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,JC Buttler,Wankhede Stadium,Nitin Menon,Nanda Kishore
-11319,2019,Mohali,2019-04-21,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,AB de Villiers,IS Bindra Stadium,S Ravi,Ulhas Gandhe
-11320,2019,Kolkata,2019-04-22,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,Imran Tahir,Eden Gardens,Rod Tucker,O Nandan
-11321,2019,Hyderabad,2019-04-23,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Delhi Capitals,39,0,K Paul,Rajiv Gandhi Intl. Cricket Stadium,Anil Chaudhary,Bruce Oxenford
-11322,2019,Mumbai,2019-04-24,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,SL Malinga,Wankhede Stadium,Marais Erasmus,Nitin Menon
-11323,2019,Mohali,2019-04-25,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab,12,0,R Ashwin,IS Bindra Stadium,Anil Chaudhary,Vineet Kulkarni
-11324,2019,Hyderabad,2019-04-26,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Sunrisers Hyderabad,0,6,DA Warner,Rajiv Gandhi Intl. Cricket Stadium,Ian Gould,Ulhas Gandhe
-11325,2019,Delhi,2019-04-27,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,40,0,HH Pandya,Feroz Shah Kotla Ground,Nigel Llong,Bruce Oxenford
-11326,2019,Kolkata,2019-04-28,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,10,0,V Kohli,Eden Gardens,Ian Gould,Nitin Menon
-11327,2019,Jaipur,2019-04-28,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,SPD Smith,Sawai Mansingh Stadium,S Ravi,Yeshwant Barde
-11328,2019,Delhi,2019-04-29,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,5,SS Iyer,Feroz Shah Kotla Ground,Ulhas Gandhe,C Shamshuddin
-11329,2019,Hyderabad,2019-05-01,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,K Ahmed,Rajiv Gandhi Intl. Cricket Stadium,Nitin Menon,Nigel Llong
-11330,2019,Bengaluru,2019-05-02,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,1,0,PA Patel,M. Chinnaswamy Stadium,Vineet Kulkarni,Rod Tucker
-11331,2019,Jaipur,2019-05-03,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,RR Pant,Sawai Mansingh Stadium,S Ravi,Nanda Kishore
-11332,2019,Chennai,2019-05-04,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,SR Watson,M. A. Chidambaram Stadium,Nigel Llong,Anil Chaudhary
-11333,2019,Bengaluru,2019-05-04,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Royal Challengers Bangalore,17,0,AB de Villiers,M. Chinnaswamy Stadium,Bruce Oxenford,C Shamshuddin
-11334,2019,Kolkata,2019-05-05,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,3,VR Aaron,Eden Gardens,Ian Gould,Anil Dandekar
-11335,2019,Chennai,2019-05-05,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,46,0,RG Sharma,M. A. Chidambaram Stadium,Nigel Llong,Anil Chaudhary
-11336,2019,Jaipur,2019-05-07,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,JD Unadkat,Sawai Mansingh Stadium,Yeshwant Barde,Nand Kishore
-11337,2019,Delhi,2019-05-10,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,0,Delhi Capitals,16,0,S Dhawan,Feroz Shah Kotla Ground,Bruce Oxenford,KN Ananthapadmanabhan
-11338,2019,Kolkata,2019-05-12,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Kolkata Knight Riders,34,0,AD Russell,Eden Gardens,Ian Gould,Nitin Menon
-11339,2019,Hyderabad,29/04/19,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,45,0,DA Warner,Rajiv Gandhi Intl. Cricket Stadium,S Ravi,O Nandan
-11341,2019,Chennai,01/05/19,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Chennai Super Kings,80,0,MS Dhoni,M. A. Chidambaram Stadium,Anil Dandekar,Nitin Menon
-11342,2019,Mumbai,02/05/19,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Mumbai Indians,0,0,JJ Bumrah,Wankhede Stadium,S Ravi,O Nandan
-11343,2019,Mohali,03/05/19,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,S Gill,IS Bindra Stadium,Bruce Oxenford,C Shamshuddin
-11344,2019,Delhi,04/05/19,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Delhi Capitals,0,5,A Mishra,Feroz Shah Kotla Ground,Ian Gould,Anil Dandekar
-11345,2019,Bengaluru,04/05/19,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,S Hetmyer,M. Chinnaswamy Stadium,Nigel Llong,Anil Chaudhary
-11346,2019,Mohali,05/05/19,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,KL Rahul,IS Bindra Stadium,KN Ananthapadmanabhan,C Shamshuddin
-11347,2019,Mumbai,05/05/19,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,9,HH Pandya,Wankhede Stadium,Nanda Kishore,O Nandan
-11412,2019,Chennai,07/05/19,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Mumbai Indians,0,6,AS Yadav,M. A. Chidambaram Stadium,Nigel Llong,Nitin Menon
-11414,2019,Visakhapatnam,10/05/19,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,F du Plessis,ACA-VDCA Stadium,Sundaram Ravi,Bruce Oxenford
-11415,2019,Hyderabad,12/05/19,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,1,0,JJ Bumrah,Rajiv Gandhi Intl. Cricket Stadium,Nitin Menon,Ian Gould
+626,2016,Bangalore,2016-05-18,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,1,Royal Challengers Bangalore,82,0,V Kohli,M Chinnaswamy Stadium,KN Ananthapadmanabhan,M Erasmus
+627,2016,Kanpur,2016-05-19,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions,0,6,DR Smith,Green Park,AK Chaudhary,CK Nandan
+628,2016,Raipur,2016-05-20,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,6,KK Nair,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford
+629,2016,Visakhapatnam,2016-05-21,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,bat,normal,0,Rising Pune Supergiants,0,4,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,HDPK Dharmasena,Nitin Menon
+630,2016,Kanpur,2016-05-21,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions,0,6,SK Raina,Green Park,AK Chaudhary,CK Nandan
+631,2016,Kolkata,2016-05-22,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,22,0,YK Pathan,Eden Gardens,KN Ananthapadmanabhan,M Erasmus
+632,2016,Raipur,2016-05-22,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,V Kohli,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford
+633,2016,Bangalore,2016-05-24,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,AB de Villiers,M Chinnaswamy Stadium,AK Chaudhary,HDPK Dharmasena
+634,2016,Delhi,2016-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,22,0,MC Henriques,Feroz Shah Kotla,M Erasmus,C Shamshuddin
+635,2016,Delhi,2016-05-27,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,DA Warner,Feroz Shah Kotla,M Erasmus,CK Nandan
+636,2016,Bangalore,2016-05-29,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,8,0,BCJ Cutting,M Chinnaswamy Stadium,HDPK Dharmasena,BNJ Oxenford
+7894,2018,Mumbai,2018-04-07,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,1,DJ Bravo,Wankhede Stadium,Chris Gaffaney,A Nanda Kishore
+7895,2018,Mohali,2018-04-08,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,K Ananthapadmanabhan
+7896,2018,Kolkata,2018-04-08,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,4,SP Narine,Eden Gardens,C Shamshuddin,A.D Deshmukh
+7897,2018,Hyderabad,2018-04-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",Nigel Llong,Vineet Kulkarni
+7898,2018,Chennai,2018-04-10,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,SW Billings,"MA Chidambaram Stadium, Chepauk",Anil Chaudhary,Chris Gaffaney
+7899,2018,Jaipur,2018-04-11,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,1,Rajasthan Royals,10,0,SV Samson,Sawai Mansingh Stadium,K Ananthapadmanabhan,Rod Tucker
+7900,2018,Hyderabad,2018-04-12,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,1,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",O Nandan,Nigel Llong
+7901,2018,Bengaluru,2018-04-13,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,UT Yadav,M Chinnaswamy Stadium,S Ravi,A.D Deshmukh
+7902,2018,Mumbai,2018-04-14,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,7,JJ Roy,Wankhede Stadium,K Ananthapadmanabhan,Nitin Menon
+7903,2018,Kolkata,2018-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,B Stanlake,Eden Gardens,A Nanda Kishore,Anil Chaudhary
+7904,2018,Bengaluru,2018-04-15,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,19,0,SV Samson,M Chinnaswamy Stadium,C Shamshuddin,S Ravi
+7905,2018,Mohali,2018-04-15,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Kings XI Punjab,4,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",Vineet Kulkarni,O Nandan
+7906,2018,Kolkata,2018-04-16,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kolkata Knight Riders,71,0,N Rana,Eden Gardens,Anil Chaudhary,A Nanda Kishore
+7907,2018,Mumbai,2018-04-17,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,46,0,RG Sharma,Wankhede Stadium,Rod Tucker,Nitin Menon
+7908,2018,Jaipur,2018-04-18,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,N Rana,Sawai Mansingh Stadium,S Ravi,A.D Deshmukh
+7909,2018,Mohali,2018-04-19,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,0,Kings XI Punjab,15,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nigel Llong,Anil Chaudhary
+7910,2018,Pune,2018-04-20,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,64,0,SR Watson,Maharashtra Cricket Association Stadium,Nitin Menon,K Ananthapadmanabhan
+7911,2018,Kolkata,2018-04-21,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,1,Kings XI Punjab,0,9,KL Rahul,Eden Gardens,C Shamshuddin,A.D Deshmukh
+7912,2018,Bengaluru,2018-04-21,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,AB de Villiers,M Chinnaswamy Stadium,Chris Gaffaney,O Nandan
+7913,2018,Hyderabad,2018-04-22,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Chennai Super Kings,4,0,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",Anil Chaudhary,Vineet Kulkarni
+7914,2018,Jaipur,2018-04-22,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Rajasthan Royals,0,3,J Archer,Sawai Mansingh Stadium,Rod Tucker,K Ananthapadmanabhan
+7915,2018,Delhi,2018-04-23,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kings XI Punjab,4,0,AS Rajpoot,Feroz Shah Kotla,O Nandan,A Nanda Kishore
+7916,2018,Mumbai,2018-04-24,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,31,0,Rashid Khan,Wankhede Stadium,C Shamshuddin,S Ravi
+7917,2018,Bengaluru,2018-04-25,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,MS Dhoni,M Chinnaswamy Stadium,Nigel Llong,Virender Kumar Sharma
+7918,2018,Hyderabad,2018-04-26,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,13,0,AS Rajpoot,"Rajiv Gandhi International Stadium, Uppal",O Nandan,Yeshwant Barde
+7919,2018,Delhi,2018-04-27,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Delhi Daredevils,55,0,SS Iyer,Feroz Shah Kotla,C Shamshuddin,S Ravi
+7920,2018,Pune,2018-04-28,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,8,RG Sharma,Maharashtra Cricket Association Stadium,Chris Gaffaney,Nitin Menon
+7921,2018,Jaipur,2018-04-29,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,11,0,KS Williamson,Sawai Mansingh Stadium,Bruce Oxenford,A Nanda Kishore
+7922,2018,Bengaluru,2018-04-29,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,CA Lynn,M Chinnaswamy Stadium,Nigel Llong,Anil Chaudhary
+7923,2018,Pune,2018-04-30,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,0,Chennai Super Kings,13,0,SR Watson,Maharashtra Cricket Association Stadium,C Shamshuddin,Anil Dandekar
+7924,2018,Bengaluru,2018-05-01,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,14,0,TG Southee,M Chinnaswamy Stadium,Marais Erasmus,Nitin Menon
+7925,2018,Delhi,2018-05-02,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,1,Delhi Daredevils,4,0,RR Pant,Feroz Shah Kotla,O Nandan,Virender Kumar Sharma
+7926,2018,Kolkata,2018-05-03,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,SP Narine,Eden Gardens,Kumar Dharmasena,A.D Deshmukh
+7927,2018,Indore,2018-05-04,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,AS Yadav,Holkar Cricket Stadium,S Ravi,Anil Dandekar
+7928,2018,Pune,2018-05-05,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,RA Jadeja,Maharashtra Cricket Association Stadium,Nitin Menon,Yeshwant Barde
+7929,2018,Hyderabad,2018-05-05,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,0,Sunrisers Hyderabad,0,7,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",Bruce Oxenford,O Nandan
+7930,2018,Mumbai,2018-05-06,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,13,0,HH Pandya,Wankhede Stadium,Kumar Dharmasena,A.D Deshmukh
+7931,2018,Indore,2018-05-06,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,M Ur Rahman,Holkar Cricket Stadium,C Shamshuddin,S Ravi
+7932,2018,Hyderabad,2018-05-07,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,5,0,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",Bruce Oxenford,Virender Kumar Sharma
+7933,2018,Jaipur,2018-05-08,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,0,Rajasthan Royals,15,0,JC Buttler,Sawai Mansingh Stadium,Marais Erasmus,Nitin Menon
+7934,2018,Kolkata,2018-05-09,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,102,0,Ishan Kishan,Eden Gardens,Anil Chaudhary,K Ananthapadmanabhan
+7935,2018,Delhi,2018-05-10,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,0,Sunrisers Hyderabad,0,9,S Dhawan,Feroz Shah Kotla,C Shamshuddin,Anil Dandekar
+7936,2018,Jaipur,2018-05-11,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,4,JC Buttler,Sawai Mansingh Stadium,Marais Erasmus,Yeshwant Barde
+7937,2018,Indore,2018-05-12,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kolkata Knight Riders,31,0,SP Narine,Holkar Cricket Stadium,O Nandan,Virender Kumar Sharma
+7938,2018,Delhi,2018-05-12,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,AB de Villiers,Feroz Shah Kotla,Kumar Dharmasena,Anil Chaudhary
+7939,2018,Pune,2018-05-13,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,AT Rayudu,Maharashtra Cricket Association Stadium,Marais Erasmus,Yeshwant Barde
+7940,2018,Mumbai,2018-05-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,JC Buttler,Wankhede Stadium,Nitin Menon,S Ravi
+7941,2018,Indore,2018-05-14,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,10,UT Yadav,Holkar Cricket Stadium,Bruce Oxenford,Virender Kumar Sharma
+7942,2018,Kolkata,2018-05-15,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,Kuldeep Yadav,Eden Gardens,Kumar Dharmasena,Anil Chaudhary
+7943,2018,Mumbai,2018-05-16,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,Mumbai Indians,3,0,JJ Bumrah,Wankhede Stadium,Marais Erasmus,Nitin Menon
+7944,2018,Bengaluru,2018-05-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,14,0,AB de Villiers,M Chinnaswamy Stadium,S Ravi,Anil Dandekar
+7945,2018,Delhi,2018-05-18,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,0,Delhi Daredevils,34,0,HV Patel,Feroz Shah Kotla,Kumar Dharmasena,Vineet Kulkarni
+7946,2018,Jaipur,2018-05-19,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Rajasthan Royals,30,0,S Gopal,Sawai Mansingh Stadium,Bruce Oxenford,Virender Kumar Sharma
+7947,2018,Hyderabad,2018-05-19,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,5,CA Lynn,"Rajiv Gandhi International Stadium, Uppal",Anil Chaudhary,S Ravi
+7948,2018,Delhi,2018-05-20,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,0,Delhi Daredevils,11,0,A Mishra,Feroz Shah Kotla,Kumar Dharmasena,O Nandan
+7949,2018,Pune,2018-05-20,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,L Ngidi,Maharashtra Cricket Association Stadium,Nitin Menon,Yeshwant Barde
+7950,2018,Mumbai,2018-05-22,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,2,F du Plessis,Wankhede Stadium,Marais Erasmus,C Shamshuddin
+7951,2018,Kolkata,2018-05-23,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,25,0,AD Russell,Eden Gardens,Nitin Menon,Anil Chaudhary
+7952,2018,Kolkata,2018-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,14,0,Rashid Khan,Eden Gardens,Nitin Menon,Kumar Dharmasena
+7953,2018,Mumbai,2018-05-27,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,SR Watson,Wankhede Stadium,Marais Erasmus,S Ravi
+11137,2019,Chennai,2019-03-23,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,Harbhajan Singh,M. A. Chidambaram Stadium,Bruce Oxenford,Anil Dandekar
+11138,2019,Kolkata,2019-03-24,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,AD Russell,Eden Gardens,Chris Gaffaney,Anil Chaudhary
+11139,2019,Mumbai,2019-03-24,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Delhi Capitals,37,0,RR Pant,Wankhede Stadium,S Ravi,Yeshwant Barde
+11140,2019,Jaipur,2019-03-25,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab,14,0,CH Gayle,Sawai Mansingh Stadium,C Shamshuddin,KN Anantapadmanabhan
+11141,2019,Delhi,2019-03-26,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,0,Chennai Super Kings,0,6,SR Watson,Feroz Shah Kotla Ground,Marais Erasmus,Nitin Menon
+11142,2019,Kolkata,2019-03-27,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kolkata Knight Riders,28,0,AD Russell,Eden Gardens,Anil Chaudhary,Vineet Kulkarni
+11143,2019,Bengaluru,2019-03-28,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,6,0,JJ Bumrah,M. Chinnaswamy Stadium,S Ravi,O Nandan
+11144,2019,Hyderabad,2019-03-29,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,0,Sunrisers Hyderabad,0,5,Rashid Khan,Rajiv Gandhi Intl. Cricket Stadium,Bruce Oxenford,C Shamshuddin
+11145,2019,Mohali,2019-03-30,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,8,MA Agarwal,IS Bindra Stadium,Vineet Kulkarni,Chris Gaffaney
+11146,2019,Delhi,2019-03-30,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,tie,0,Delhi Capitals,0,0,P Shaw,Feroz Shah Kotla Ground,Anil Dandekar,Nitin Menon
+11147,2019,Hyderabad,2019-03-31,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,118,0,J Bairstow,Rajiv Gandhi Intl. Cricket Stadium,S Ravi,KN Anantapadmanabhan
+11148,2019,Chennai,2019-03-31,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,8,0,MS Dhoni,M. A. Chidambaram Stadium,O Nandan,Yeshwant Barde
+11149,2019,Mohali,2019-04-01,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,0,Kings XI Punjab,14,0,S Curran,IS Bindra Stadium,Anil Chaudhary,Chris Gaffaney
+11150,2019,Jaipur,2019-04-02,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,S Gopal,Sawai Mansingh Stadium,Marais Erasmus,Anil Dandekar
+11151,2019,Mumbai,2019-04-03,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,37,0,HH Pandya,Wankhede Stadium,Bruce Oxenford,Rod Tucker
+11152,2019,Delhi,2019-04-04,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,J Bairstow,Feroz Shah Kotla Ground,C Shamshuddin,KN Anantapadmanabhan
+11153,2019,Bengaluru,2019-04-05,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,AD Russell,M. Chinnaswamy Stadium,Anil Chaudhary,Chris Gaffaney
+11309,2019,Chennai,2019-04-06,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,Chennai Super Kings,22,0,Harbhajan Singh,M. A. Chidambaram Stadium,KN Ananthapadmanabhan,Rod Tucker
+11310,2019,Hyderabad,2019-04-06,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Mumbai Indians,40,0,A Joseph,Rajiv Gandhi Intl. Cricket Stadium,Anil Dandekar,Nitin Menon
+11311,2019,Bengaluru,2019-04-07,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,K Rabada,M. Chinnaswamy Stadium,S Ravi,Yeshwant Barde
+11312,2019,Jaipur,2019-04-07,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,8,H Gurney,Sawai Mansingh Stadium,Chris Gaffaney,Anil Chaudhary
+11313,2019,Mohali,2019-04-08,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,KL Rahul,IS Bindra Stadium,Marais Erasmus,Anil Dandekar
+11314,2019,Chennai,2019-04-09,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,DL Chahar,M. A. Chidambaram Stadium,Rod Tucker,C Shamshuddin
+11315,2019,Mumbai,2019-04-10,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,3,KA Pollard,Wankhede Stadium,Yeshwant Barde,S Ravi
+11316,2019,Jaipur,2019-04-11,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,MS Dhoni,Sawai Mansingh Stadium,Bruce Oxenford,Ulhas Gandhe
+11317,2019,Kolkata,2019-04-12,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,S Dhawan,Eden Gardens,Yeshwant Barde,O Nandan
+11318,2019,Mumbai,2019-04-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,JC Buttler,Wankhede Stadium,Nitin Menon,Nanda Kishore
+11319,2019,Mohali,2019-04-13,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,AB de Villiers,IS Bindra Stadium,S Ravi,Ulhas Gandhe
+11320,2019,Kolkata,2019-04-14,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,Imran Tahir,Eden Gardens,Rod Tucker,O Nandan
+11321,2019,Hyderabad,2019-04-14,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Delhi Capitals,39,0,K Paul,Rajiv Gandhi Intl. Cricket Stadium,Anil Chaudhary,Bruce Oxenford
+11322,2019,Mumbai,2019-04-15,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,SL Malinga,Wankhede Stadium,Marais Erasmus,Nitin Menon
+11323,2019,Mohali,2019-04-16,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab,12,0,R Ashwin,IS Bindra Stadium,Anil Chaudhary,Vineet Kulkarni
+11324,2019,Hyderabad,2019-04-17,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Sunrisers Hyderabad,0,6,DA Warner,Rajiv Gandhi Intl. Cricket Stadium,Ian Gould,Ulhas Gandhe
+11325,2019,Delhi,2019-04-18,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,40,0,HH Pandya,Feroz Shah Kotla Ground,Nigel Llong,Bruce Oxenford
+11326,2019,Kolkata,2019-04-19,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,10,0,V Kohli,Eden Gardens,Ian Gould,Nitin Menon
+11327,2019,Jaipur,2019-04-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,SPD Smith,Sawai Mansingh Stadium,S Ravi,Yeshwant Barde
+11328,2019,Delhi,2019-04-20,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,5,SS Iyer,Feroz Shah Kotla Ground,Ulhas Gandhe,C Shamshuddin
+11329,2019,Hyderabad,2019-04-21,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,K Ahmed,Rajiv Gandhi Intl. Cricket Stadium,Nitin Menon,Nigel Llong
+11330,2019,Bengaluru,2019-04-21,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,1,0,PA Patel,M. Chinnaswamy Stadium,Vineet Kulkarni,Rod Tucker
+11331,2019,Jaipur,2019-04-22,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,RR Pant,Sawai Mansingh Stadium,S Ravi,Nanda Kishore
+11332,2019,Chennai,2019-04-23,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,SR Watson,M. A. Chidambaram Stadium,Nigel Llong,Anil Chaudhary
+11333,2019,Bengaluru,2019-04-24,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Royal Challengers Bangalore,17,0,AB de Villiers,M. Chinnaswamy Stadium,Bruce Oxenford,C Shamshuddin
+11334,2019,Kolkata,2019-04-25,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,3,VR Aaron,Eden Gardens,Ian Gould,Anil Dandekar
+11335,2019,Chennai,2019-04-26,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,46,0,RG Sharma,M. A. Chidambaram Stadium,Nigel Llong,Anil Chaudhary
+11336,2019,Jaipur,2019-04-27,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,JD Unadkat,Sawai Mansingh Stadium,Yeshwant Barde,Nand Kishore
+11337,2019,Delhi,2019-04-28,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,0,Delhi Capitals,16,0,S Dhawan,Feroz Shah Kotla Ground,Bruce Oxenford,KN Ananthapadmanabhan
+11338,2019,Kolkata,2019-04-28,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Kolkata Knight Riders,34,0,AD Russell,Eden Gardens,Ian Gould,Nitin Menon
+11339,2019,Hyderabad,2019-04-29,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,45,0,DA Warner,Rajiv Gandhi Intl. Cricket Stadium,S Ravi,O Nandan
+11341,2019,Chennai,2019-05-01,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Chennai Super Kings,80,0,MS Dhoni,M. A. Chidambaram Stadium,Anil Dandekar,Nitin Menon
+11342,2019,Mumbai,2019-05-02,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Mumbai Indians,0,0,JJ Bumrah,Wankhede Stadium,S Ravi,O Nandan
+11343,2019,Mohali,2019-05-03,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,S Gill,IS Bindra Stadium,Bruce Oxenford,C Shamshuddin
+11344,2019,Delhi,2019-05-04,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Delhi Capitals,0,5,A Mishra,Feroz Shah Kotla Ground,Ian Gould,Anil Dandekar
+11345,2019,Bengaluru,2019-05-04,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,S Hetmyer,M. Chinnaswamy Stadium,Nigel Llong,Anil Chaudhary
+11346,2019,Mohali,2019-05-05,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,KL Rahul,IS Bindra Stadium,KN Ananthapadmanabhan,C Shamshuddin
+11347,2019,Mumbai,2019-05-05,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,9,HH Pandya,Wankhede Stadium,Nanda Kishore,O Nandan
+11412,2019,Chennai,2019-05-07,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Mumbai Indians,0,6,AS Yadav,M. A. Chidambaram Stadium,Nigel Llong,Nitin Menon
+11414,2019,Visakhapatnam,2019-05-10,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,F du Plessis,ACA-VDCA Stadium,Sundaram Ravi,Bruce Oxenford
+11415,2019,Hyderabad,2019-05-12,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,1,0,JJ Bumrah,Rajiv Gandhi Intl. Cricket Stadium,Nitin Menon,Ian Gould
