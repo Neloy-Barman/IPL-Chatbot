@@ -1,16 +1,14 @@
 import csv
-import mysql.connector
+from db_helpers.db_connection import create_connection, close_connection
 
-# Connection to the database
-connection = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="root",
-    database="ipldb"
-)
+
+# Create connection
+connection = create_connection()
 
 if connection.is_connected():
     print("Connection successful.")
+else:
+    print("Connection failed!!")
 
 # Creating a cursor object to execute SQL queries
 cursor = connection.cursor()
@@ -31,4 +29,6 @@ connection.commit()
 
 # Closing the cursor and the connection
 cursor.close()
-connection.close()
+close_connection(connection)
+
+print("Data inserted successfully!!")
