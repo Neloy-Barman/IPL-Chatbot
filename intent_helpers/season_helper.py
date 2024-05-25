@@ -17,6 +17,6 @@ def seasonHandler(payload):
 
     max_date, min_date = getDateRange(season=year)
 
-    response_text = f"The {year} session of IPL held between {min_date} to {max_date}. Kindly Enter a date between these to proceed."
+    response_text = f"The {year} session of IPL held between '{min_date}' to '{max_date}'. Kindly Enter a date between these to proceed. Example: 2012-04-05, 2014-03-21"
 
     return {"fulfillmentText": response_text}

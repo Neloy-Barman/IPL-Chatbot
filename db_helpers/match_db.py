@@ -3,8 +3,8 @@ from db_helpers.db_connection import create_connection, close_connection
 
 # Fetching toss decision
 def toss_decision(session_id):
-    from helpers.generic_helpers import fetch_instances
-    from helpers.generic_helpers import want_to_know_more, more_options
+    from generic_helpers import fetch_instances
+    from generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
@@ -22,8 +22,8 @@ def toss_decision(session_id):
 
 # Fetching win by runs
 def win_by_runs(session_id):
-    from helpers.generic_helpers import fetch_instances
-    from helpers.generic_helpers import want_to_know_more, more_options
+    from generic_helpers import fetch_instances
+    from generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
@@ -41,8 +41,8 @@ def win_by_runs(session_id):
 
 # Fetching win by wickets
 def win_by_wickets(session_id):
-    from helpers.generic_helpers import fetch_instances
-    from helpers.generic_helpers import want_to_know_more, more_options
+    from generic_helpers import fetch_instances
+    from generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
@@ -60,8 +60,8 @@ def win_by_wickets(session_id):
 
 # Fetching match result
 def result(session_id):
-    from helpers.generic_helpers import fetch_instances
-    from helpers.generic_helpers import want_to_know_more, more_options
+    from generic_helpers import fetch_instances
+    from generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
@@ -76,8 +76,8 @@ def result(session_id):
 
 # Fetching dls applied or not
 def dls(session_id):
-    from helpers.generic_helpers import fetch_instances
-    from helpers.generic_helpers import want_to_know_more, more_options
+    from generic_helpers import fetch_instances
+    from generic_helpers import want_to_know_more, more_options
     season, date, venue = fetch_instances(session_id=session_id)
     connection = create_connection()
     cursor = connection.cursor()
