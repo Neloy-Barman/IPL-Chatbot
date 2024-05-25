@@ -17,7 +17,7 @@ def create_connection():
         user =  db_user,
         password = db_password,
         database = db_database,
-        port = db_port
+        port = int(db_port)
     )
     
     return connection
