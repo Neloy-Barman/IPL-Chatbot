@@ -9,7 +9,6 @@ db_host = os.getenv("db_host")
 db_user = os.getenv("db_user")
 db_password = os.getenv("db_password")
 db_database = os.getenv("db_database")
-db_port = os.getenv("db_port")
 
 def create_connection():
     connection = mysql.connector.connect(
@@ -17,7 +16,7 @@ def create_connection():
         user =  db_user,
         password = db_password,
         database = db_database,
-        port = int(db_port)
+        port = 16671
     )
     
     return connection
